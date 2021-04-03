@@ -1,5 +1,4 @@
-<?php
-namespace Gaivoronskiy;
+<?php namespace Gaivoronskiy;
 
 use RuntimeException;
 
